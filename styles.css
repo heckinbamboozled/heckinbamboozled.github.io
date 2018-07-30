@@ -9,3 +9,7 @@ body {
 p {
   text-align: left;
 }
+
+ul {
+  margin-left: 0px;
+}
