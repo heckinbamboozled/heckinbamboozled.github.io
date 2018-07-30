@@ -3,4 +3,9 @@ body {
   font-size: 12pt;
   background-color: white;
   color: #36465D;
-  }
+}
+
+p {
+  text-align: left;
+  margin-left: 20px;
+}
